@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cargo build --release --target wasm32-unknown-unknown
-wasm-build ./target pwasm_erc20_token --target=wasm32-unknown-unknown --final=token --save-raw=./target/token-deployed.wasm
+wasm-build ./target pwasm-token-contract --target=wasm32-unknown-unknown --final=token --save-raw=./target/token-deployed.wasm
 
-cp ./target/*.wasm ./compiled
-cp ./target/json/* ./compiled
+cp ./target/*.wasm ./compiled/
+cp ./target/json/* ./compiled/

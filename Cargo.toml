@@ -1,5 +1,5 @@
 [package]
-name = "pwasm-erc20-token"
+name = "pwasm-token-contract"
 version = "0.1.0"
 authors = ["Fang Gong <fang@oceanprotocol.com>"]
 

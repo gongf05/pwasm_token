@@ -132,19 +132,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "pwasm-erc20-token"
-version = "0.1.0"
-dependencies = [
- "bigint 4.3.0 (registry+https://github.com/rust-lang/crates.io-index)",
- "parity-hash 1.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
- "pwasm-abi 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)",
- "pwasm-abi-derive 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)",
- "pwasm-ethereum 0.3.0 (registry+https://github.com/rust-lang/crates.io-index)",
- "pwasm-std 0.6.0 (registry+https://github.com/rust-lang/crates.io-index)",
- "tiny-keccak 1.4.1 (registry+https://github.com/rust-lang/crates.io-index)",
-]
-
-[[package]]
 name = "pwasm-ethereum"
 version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -174,6 +161,19 @@ dependencies = [
  "parity-hash 1.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "pwasm-alloc 0.3.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "pwasm-libc 0.2.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "tiny-keccak 1.4.1 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "pwasm-token-contract"
+version = "0.1.0"
+dependencies = [
+ "bigint 4.3.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "parity-hash 1.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "pwasm-abi 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)",
+ "pwasm-abi-derive 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)",
+ "pwasm-ethereum 0.3.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "pwasm-std 0.6.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "tiny-keccak 1.4.1 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
