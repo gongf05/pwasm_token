@@ -1,0 +1,11 @@
+/Users/fancy/Documents/Ocean Protocol/research/6-simple-market-rust/poc-simple-data-market-rust/1-deploy-erc20-token/target/rls/debug/deps/pwasm_abi-558b67b2b4a72981.rmeta: /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/lib.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/mod.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/util.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/log.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/stream.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/sink.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/common.rs
+
+/Users/fancy/Documents/Ocean Protocol/research/6-simple-market-rust/poc-simple-data-market-rust/1-deploy-erc20-token/target/rls/debug/deps/pwasm_abi-558b67b2b4a72981.d: /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/lib.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/mod.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/util.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/log.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/stream.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/sink.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/common.rs
+
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/lib.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/mod.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/util.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/log.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/stream.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/sink.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/pwasm-abi-0.1.2/src/eth/common.rs:

@@ -1,0 +1,1 @@
+{"rustc":6664993897390060850,"features":"[]","target":11521574277529436584,"profile":4513376542218014594,"path":13343460861930854376,"deps":[["bigint v4.2.0",4108970041721263477],["rustc-hex v1.0.0",9149023149885187201]],"local":[{"Precalculated":"1.1.0"}],"rustflags":["--error-format=json"]}

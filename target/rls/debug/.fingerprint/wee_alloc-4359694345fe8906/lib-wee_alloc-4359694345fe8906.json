@@ -1,0 +1,1 @@
+{"rustc":6664993897390060850,"features":"[\"default\", \"size_classes\"]","target":11287339699174131915,"profile":10983917318202942317,"path":2758045007228588357,"deps":[["libc v0.2.39",608524976211492947],["memory_units v0.4.0",4798828879994662084],["mmap-alloc v0.2.0",15837391024122789742]],"local":[{"Precalculated":"0.2.0"}],"rustflags":["--error-format=json"]}

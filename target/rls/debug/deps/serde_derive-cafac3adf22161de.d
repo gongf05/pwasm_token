@@ -1,0 +1,11 @@
+/Users/fancy/Documents/Ocean Protocol/research/6-simple-market-rust/poc-simple-data-market-rust/1-deploy-erc20-token/target/rls/debug/deps/libserde_derive-cafac3adf22161de.dylib: /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/lib.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/bound.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/fragment.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/de.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/pretend.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/ser.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/try.rs
+
+/Users/fancy/Documents/Ocean Protocol/research/6-simple-market-rust/poc-simple-data-market-rust/1-deploy-erc20-token/target/rls/debug/deps/serde_derive-cafac3adf22161de.d: /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/lib.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/bound.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/fragment.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/de.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/pretend.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/ser.rs /Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/try.rs
+
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/lib.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/bound.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/fragment.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/de.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/pretend.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/ser.rs:
+/Users/fancy/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_derive-1.0.45/src/try.rs:

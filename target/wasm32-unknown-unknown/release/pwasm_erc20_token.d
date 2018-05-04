@@ -1,0 +1,1 @@
+/Users/fancy/Documents/Ocean\ Protocol/research/6-simple-market-rust/my-erc20-repo/target/wasm32-unknown-unknown/release/pwasm_erc20_token.wasm: /Users/fancy/Documents/Ocean\ Protocol/research/6-simple-market-rust/my-erc20-repo/src/lib.rs
